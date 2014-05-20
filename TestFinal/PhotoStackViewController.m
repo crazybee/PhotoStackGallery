@@ -29,16 +29,16 @@
     if(!_photos) {
 
         _photos = [NSArray arrayWithObjects:
-                   [UIImage imageNamed:@"1.jpg"],
-                   [UIImage imageNamed:@"2.jpg"],
-                   [UIImage imageNamed:@"3.jpg"],
-                   [UIImage imageNamed:@"4.jpg"],
-                   [UIImage imageNamed:@"5.jpg"],
-                   [UIImage imageNamed:@"6.jpg"],
-                   [UIImage imageNamed:@"7.jpg"],
-                   [UIImage imageNamed:@"8.jpg"],
-                   [UIImage imageNamed:@"9.jpg"],
-                   [UIImage imageNamed:@"10.jpg"],
+                   [UIImage imageNamed:@"1.JPG"],
+                   [UIImage imageNamed:@"2.JPG"],
+                   [UIImage imageNamed:@"3.JPG"],
+                   [UIImage imageNamed:@"4.JPG"],
+                   [UIImage imageNamed:@"5.JPG"],
+                   [UIImage imageNamed:@"6.JPG"],
+                   [UIImage imageNamed:@"7.JPG"],
+                   [UIImage imageNamed:@"8.JPG"],
+                   [UIImage imageNamed:@"9.JPG"],
+                   [UIImage imageNamed:@"10.JPG"],
                    nil];
         
     }
